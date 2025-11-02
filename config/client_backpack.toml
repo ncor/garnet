@@ -1,7 +1,7 @@
 [Client]
 
 # Group: Others
-"Enable mod" = true
+"Enable mod" = false
 "Enable Cloud Sync" = true
 "Enable dynamic light" = true
 "Hide backpack if invisible" = true
@@ -9,7 +9,7 @@
 [style]
 
 # Group: Others
-"Backpack Model Type" = "default"
+"Backpack Model Type" = "backtools"
 "Variant" = "default"
 
 [Server]

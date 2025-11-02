@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:22
+renderDistance:32
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"]
 incompatibleResourcePacks:["mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Connected Paths v1.3.zip"]
 lastServer:
 lang:en_us
@@ -156,22 +156,11 @@ key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
 key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersive_aircraft.dismount:key.keyboard.r
 key_key.immersive_aircraft.boost:key.keyboard.b
-key_keybind.sophisticatedcore.item_highlight:key.keyboard.semicolon
-key_keybind.sophisticatedcore.sort:key.mouse.middle
-key_keybind.sophisticatedcore.deposit_item:key.keyboard.apostrophe
-key_keybind.sophisticatedcore.restock_item:key.keyboard.backslash
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
-key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_desc.seasonhud.keybind.options:key.keyboard.h
 key_key.deeperdarker.boost:key.keyboard.b
 key_key.deeperdarker.transmit:key.keyboard.v
 key_key.fog.toggle:key.keyboard.unknown
+key_key.ftbteams.open_gui:key.keyboard.unknown
 key_dsurround.text.keybind.modConfigurationMenu:key.keyboard.equal
 key_dsurround.text.keybind.individualSoundConfig:key.keyboard.unknown
 key_dsurround.text.keybind.diagnosticHud:key.keyboard.unknown
@@ -203,7 +192,7 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-modelPart_cape:true
+modelPart_cape:false
 modelPart_jacket:true
 modelPart_left_sleeve:true
 modelPart_right_sleeve:true

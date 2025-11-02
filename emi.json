@@ -1,6 +1,31 @@
 {
-  "favorites": [],
+  "favorites": [
+    {
+      "stack": "item:descendants_weaponry:wooden_trident",
+      "recipe": "descendants_weaponry:wooden_trident_recipe"
+    }
+  ],
   "lookup_history": [
+    "item:minecraft:red_nether_bricks",
+    "item:minecraft:ancient_debris",
+    "item:minecraft:turtle_scute",
+    "#item:deeperdarker:scutes",
+    "item:deeperdarker:resonarium_plate",
+    "item:deeperdarker:resonarium_leggings",
+    "item:deeperdarker:resonarium",
+    "item:deeperdarker:resonarium_helmet",
+    "item:deeperdarker:resonarium_chestplate",
+    "item:deeperdarker:resonarium_boots",
+    "item:descendants_weaponry:trident_upgrade_smithing_template",
+    "item:descendants_weaponry:reinforced_diamond",
+    "item:enderscape:drift_leggings",
+    "item:endermanoverhaul:warped_pearl",
+    "item:create:rose_quartz",
+    "item:create:rose_quartz_block",
+    "item:create:rose_quartz_tiles",
+    "item:sereneseasons:calendar",
+    "item:minecraft:nether_wart_block",
+    "item:minecraft:nether_wart",
     "item:minecraft:amethyst_shard{\"minecraft:custom_data\":{stellarity.special_item:\"enderite_shard\"},\"minecraft:custom_model_data\":90001,\"minecraft:item_name\":\u0027{\"fallback\":\"Enderite Shard\",\"translate\":\"stellarity.items.materials.enderite_shard\"}\u0027,\"minecraft:lore\":[\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"Contains a fraction of the unknown\",\"italic\":false,\"translate\":\"stellarity.items.materials.enderite_shard.description\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027],\"minecraft:rarity\":\"uncommon\"}",
     "item:minecraft:ominous_bottle{\"minecraft:ominous_bottle_amplifier\":4}",
     "item:minecraft:chorus_flower",
@@ -29,7 +54,6 @@
     },
     "item:minecraft:netherite_sword{\"minecraft:attribute_modifiers\":{modifiers:[{amount:6.0d,id:\"minecraft:base_attack_damage\",operation:\"add_value\",slot:\"mainhand\",type:\"minecraft:generic.attack_damage\"},{amount:-2.4000000953674316d,id:\"minecraft:base_attack_speed\",operation:\"add_value\",slot:\"mainhand\",type:\"minecraft:generic.attack_speed\"}]},\"minecraft:custom_data\":{stellarity.special_item:\"tamaris\"},\"minecraft:custom_model_data\":90002,\"minecraft:item_name\":\u0027{\"color\":\"#9936D6\",\"fallback\":\"Tamaris\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris\"}\u0027,\"minecraft:lore\":[\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"Sneak to instantly kill\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris.description.1\"}\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"a nearby enemy with low health\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris.description.2\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"\\\u0027Property of Captain Charo\\\u0027\",\"italic\":true,\"translate\":\"stellarity.items.weapons.tamaris.flavor_text\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#BA02D7\",\"italic\":false,\"translate\":\"- Developer Item -\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027],\"minecraft:max_damage\":1562,\"minecraft:rarity\":\"rare\"}",
     "item:minecraft:dead_bubble_coral",
-    "item:sophisticatedbackpacks:diamond_backpack{\"sophisticatedcore:number_of_inventory_slots\":108,\"sophisticatedcore:number_of_upgrade_slots\":5,\"sophisticatedcore:render_info_tag\":{upgradeItems:[{},{},{},{},{}]},\"sophisticatedcore:storage_uuid\":[I;-527302982,1060782879,-1314682773,818172811]}",
     "item:bountifulfares:artisan_brush",
     "item:bountifulfares:feldspar_lantern",
     "item:smallships:spruce_brigg",
@@ -61,7 +85,6 @@
     "item:minecraft:waxed_oxidized_copper_trapdoor",
     "item:minecraft:dark_oak_trapdoor",
     "item:bountifulfares:flour",
-    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"stellarity:void_locket/quartz\":1}}}",
     {
       "type": "item",
       "id": "wildernature:cassowary_meat",
