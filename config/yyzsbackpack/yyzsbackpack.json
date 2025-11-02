@@ -18,7 +18,7 @@
   // Backpack preview modifier key (alt, ctrl, none)
   "tooltip_modifier": "shift",
   // detailed/simplified
-  "backpack_model_style": "detailed",
+  "backpack_model_style": "simplified",
   // Additional container items
   // Format: "namespace:item_id"
   // Example: "minecraft:shulker_box",
