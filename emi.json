@@ -1,0 +1,63 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:bountifulfares:artisan_brush",
+    "item:bountifulfares:feldspar_lantern",
+    "item:bountifulfares:feldspar",
+    "item:smallships:spruce_brigg",
+    "item:smallships:spruce_galley",
+    "item:smallships:spruce_drakkar",
+    "item:smallships:birch_cog",
+    "item:smallships:birch_galley",
+    "item:smallships:birch_drakkar",
+    "item:smallships:acacia_galley",
+    "item:smallships:birch_brigg",
+    "item:smallships:jungle_galley",
+    "item:smallships:cherry_drakkar",
+    "item:smallships:dark_oak_cog",
+    "item:smallships:dark_oak_brigg",
+    "item:smallships:cherry_galley",
+    "item:smallships:mangrove_cog",
+    "item:smallships:bamboo_brigg",
+    "item:smallships:bamboo_drakkar",
+    "item:smallships:mangrove_drakkar",
+    "item:smallships:mangrove_brigg",
+    "item:minecraft:polished_tuff",
+    "item:minecraft:chiseled_tuff",
+    "item:minecraft:acacia_planks",
+    "item:minecraft:spruce_planks",
+    "item:minecraft:mud",
+    "item:minecraft:music_disc_relic",
+    "item:minecraft:cherry_boat",
+    "item:minecraft:warped_fungus_on_a_stick",
+    "item:minecraft:waxed_oxidized_copper_trapdoor",
+    "item:minecraft:dark_oak_trapdoor",
+    "item:bountifulfares:flour",
+    "item:minecraft:enchanted_book{\"minecraft:stored_enchantments\":{levels:{\"stellarity:void_locket/quartz\":1}}}",
+    {
+      "type": "item",
+      "id": "wildernature:cassowary_meat",
+      "amount": 5
+    },
+    "item:horseshoes:diamond_horseshoes",
+    "item:descendants_weaponry:wooden_scythe",
+    "item:descendants_weaponry:wooden_longsword",
+    "item:descendants_weaponry:iron_samurai_helmet",
+    "item:descendants_weaponry:iron_samurai_chestplate",
+    "item:jewelry:diamond_necklace",
+    "item:descendants_weaponry:diamond_heavy_chestplate",
+    "item:descendants_weaponry:netherite_heavy_chestplate"
+  ],
+  "craft_history": [
+    "minecraft:acacia_planks",
+    "minecraft:crafting_table",
+    "minecraft:wooden_sword"
+  ],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

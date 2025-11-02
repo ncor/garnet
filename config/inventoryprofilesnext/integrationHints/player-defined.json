@@ -4,5 +4,12 @@
     },
     "io.wispforest.accessories.client.gui.AccessoriesScreen": {
         "ignore": true
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "top": -1
+            }
+        }
     }
 }

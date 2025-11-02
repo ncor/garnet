@@ -1,13 +1,13 @@
 {
   "configVersion": 2,
   "enabledByDefault": true,
-  "xOffset": 0,
-  "sneakXOffset": 0,
-  "sitXOffset": 0,
-  "renderStuckFeatures": true,
+  "xOffset": 20,
+  "sneakXOffset": 23,
+  "sitXOffset": 23,
+  "renderStuckFeatures": false,
   "vanillaHandsMode": "OFF",
-  "dynamicMode": true,
-  "vanillaHandsSkipSwimming": true,
+  "dynamicMode": false,
+  "vanillaHandsSkipSwimming": false,
   "autoVanillaHands": [
     "create:potato_cannon",
     "create:handheld_worldshaper",
@@ -19,6 +19,12 @@
     "create:extendo_grip"
   ],
   "autoToggleModItems": [
-    "exposure:camera"
+    "exposure:camera",
+    "descendants_weaponry:wooden_katana",
+    "descendants_weaponry:stone_katana",
+    "descendants_weaponry:netherite_katana",
+    "descendants_weaponry:iron_katana",
+    "descendants_weaponry:golden_katana",
+    "descendants_weaponry:diamond_katana"
   ]
 }
