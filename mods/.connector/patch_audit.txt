@@ -5,7 +5,3 @@ Failed: 0
 Success rate: не число%        Accuracy: не число%
 =============================================
 
-Mixin method io/github/a5b84/statuseffectbars/mixin/compat/nooptifine/InGameHudMixin onRenderStatusEffectOverlay(Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/DeltaTracker;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/util/Collection;IILnet/minecraft/client/resources/MobEffectTextureManager;Ljava/util/List;Ljava/util/Iterator;Lnet/minecraft/world/effect/MobEffectInstance;Lnet/minecraft/core/Holder;II)V
-  >> Using org.sinytra.adapter.patch.transformer.operation.param.TransformParameters
-     - Change descriptor to (Lnet/minecraft/client/gui/GuiGraphics;Lnet/minecraft/client/DeltaTracker;Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;Ljava/util/Collection;IILnet/minecraft/client/resources/MobEffectTextureManager;Ljava/util/List;Ljava/util/Iterator;Lnet/minecraft/world/effect/MobEffectInstance;Lnet/neoforged/neoforge/client/extensions/common/IClientMobEffectExtensions;Lnet/minecraft/core/Holder;II)V
-

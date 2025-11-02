@@ -1,9 +1,37 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:minecraft:amethyst_shard{\"minecraft:custom_data\":{stellarity.special_item:\"enderite_shard\"},\"minecraft:custom_model_data\":90001,\"minecraft:item_name\":\u0027{\"fallback\":\"Enderite Shard\",\"translate\":\"stellarity.items.materials.enderite_shard\"}\u0027,\"minecraft:lore\":[\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"Contains a fraction of the unknown\",\"italic\":false,\"translate\":\"stellarity.items.materials.enderite_shard.description\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027],\"minecraft:rarity\":\"uncommon\"}",
+    "item:minecraft:ominous_bottle{\"minecraft:ominous_bottle_amplifier\":4}",
+    "item:minecraft:chorus_flower",
+    {
+      "type": "item",
+      "id": "bountifulfares:jar",
+      "amount": 3
+    },
+    {
+      "type": "item",
+      "id": "bountifulfares:ceramic_clay",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "bountifulfares:feldspar",
+      "amount": 2
+    },
+    "item:minecraft:diorite",
+    "item:minecraft:end_stone",
+    {
+      "type": "item",
+      "id": "minecraft:rotten_flesh",
+      "nbt": "{\"minecraft:custom_data\":{stellarity.special_item:\"enderman_flesh\"},\"minecraft:custom_model_data\":90001,\"minecraft:food\":{eat_seconds:1.5f,effects:[{effect:{amplifier:72b,id:\"minecraft:hunger\",show_icon:1b},probability:0.8f}],nutrition:4,saturation:0.8f},\"minecraft:item_name\":\u0027{\"color\":\"white\",\"fallback\":\"Enderman Flesh\",\"translate\":\"stellarity.items.food.enderman_flesh\"}\u0027,\"minecraft:lore\":[\u0027{\"color\":\"#EEEEEE\",\"extra\":[{\"color\":\"#587653\",\"italic\":false,\"text\":\" 🍖\"},\" \",{\"color\":\"#EEEEEE\",\"italic\":false,\"text\":\"0.8\"},{\"color\":\"#FFDE4C\",\"italic\":false,\"text\":\" 🍖\"}],\"italic\":false,\"text\":\"4\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027]}",
+      "amount": 4
+    },
+    "item:minecraft:netherite_sword{\"minecraft:attribute_modifiers\":{modifiers:[{amount:6.0d,id:\"minecraft:base_attack_damage\",operation:\"add_value\",slot:\"mainhand\",type:\"minecraft:generic.attack_damage\"},{amount:-2.4000000953674316d,id:\"minecraft:base_attack_speed\",operation:\"add_value\",slot:\"mainhand\",type:\"minecraft:generic.attack_speed\"}]},\"minecraft:custom_data\":{stellarity.special_item:\"tamaris\"},\"minecraft:custom_model_data\":90002,\"minecraft:item_name\":\u0027{\"color\":\"#9936D6\",\"fallback\":\"Tamaris\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris\"}\u0027,\"minecraft:lore\":[\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"Sneak to instantly kill\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris.description.1\"}\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"a nearby enemy with low health\",\"italic\":false,\"translate\":\"stellarity.items.weapons.tamaris.description.2\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#EEEEEE\",\"fallback\":\"\\\u0027Property of Captain Charo\\\u0027\",\"italic\":true,\"translate\":\"stellarity.items.weapons.tamaris.flavor_text\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#BA02D7\",\"italic\":false,\"translate\":\"- Developer Item -\"}\u0027,\u0027\"\"\u0027,\u0027{\"color\":\"#CC26FF\",\"italic\":true,\"translate\":\"Stellarity\"}\u0027],\"minecraft:max_damage\":1562,\"minecraft:rarity\":\"rare\"}",
+    "item:minecraft:dead_bubble_coral",
+    "item:sophisticatedbackpacks:diamond_backpack{\"sophisticatedcore:number_of_inventory_slots\":108,\"sophisticatedcore:number_of_upgrade_slots\":5,\"sophisticatedcore:render_info_tag\":{upgradeItems:[{},{},{},{},{}]},\"sophisticatedcore:storage_uuid\":[I;-527302982,1060782879,-1314682773,818172811]}",
     "item:bountifulfares:artisan_brush",
     "item:bountifulfares:feldspar_lantern",
-    "item:bountifulfares:feldspar",
     "item:smallships:spruce_brigg",
     "item:smallships:spruce_galley",
     "item:smallships:spruce_drakkar",

@@ -5,8 +5,8 @@
   "maxSpiders": 16,
   "spawnHatman": true,
   "spawnBird": true,
-  "spawnMoth": true,
-  "spawnSpider": true,
+  "spawnMoth": false,
+  "spawnSpider": false,
   "birdReactionDistance": 10,
   "birdReactionSpeed": 20,
   "birdDespawnDistance": 64

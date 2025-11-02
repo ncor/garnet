@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:12
+renderDistance:22
 simulationDistance:12
 screenEffectScale:1.0
 soundDevice:""
@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip","file/Default-Dark-Mode-1.20.2+-2025.5.0.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip"]
 incompatibleResourcePacks:["mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Connected Paths v1.3.zip"]
 lastServer:
 lang:en_us
@@ -125,6 +125,7 @@ key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_auroras.key.reload_aurora_configs:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.elixirum.menu:key.keyboard.j
 key_accessories.key.open_accessories_screen:key.keyboard.h
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
@@ -191,7 +192,6 @@ key_key.beltborne_lanterns.toggle_debug:key.keyboard.k
 key_key.beltborne_lanterns.open_debug:key.keyboard.p
 key_key.beltborne_lanterns.toggle_lantern:key.keyboard.b
 key_equipmentcompare.key.showTooltips:key.keyboard.left.shift
-key_key.firstperson.toggle:key.keyboard.f6
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.0
