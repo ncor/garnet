@@ -16,7 +16,6 @@ journeymap/
 xaero/
 
 # --- Temporary/Session Files ---
-options.txt
 options.txt.bak
 optionsof.txt # OptiFine/Embeddium/Oculus options
 usercache.json
