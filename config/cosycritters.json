@@ -1,0 +1,13 @@
+{
+  "configVersion": 1,
+  "maxBirds": 10,
+  "maxMoths": 8,
+  "maxSpiders": 16,
+  "spawnHatman": true,
+  "spawnBird": true,
+  "spawnMoth": true,
+  "spawnSpider": true,
+  "birdReactionDistance": 10,
+  "birdReactionSpeed": 20,
+  "birdDespawnDistance": 64
+}

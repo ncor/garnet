@@ -1,0 +1,19 @@
+[Client]
+
+# Group: Others
+"Enable mod" = true
+"Enable Cloud Sync" = true
+"Enable dynamic light" = true
+"Hide backpack if invisible" = true
+
+[style]
+
+# Group: Others
+"Backpack Model Type" = "default"
+"Variant" = "default"
+
+[Server]
+
+# Group: Others
+"Hide items component data" = false
+
