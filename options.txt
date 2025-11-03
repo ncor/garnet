@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"]
+resourcePacks:["vanilla","fabric","mod_resources","moonlight:merged_pack","file/Simple Grass Flowers v1.9.5.zip","file/Os\u0027 Colorful Cobblestone.zip","file/Os\u0027 Colorful Grasses (Mix).zip","file/Fire_Rekindled.zip","file/RPG_Series_Icons-1.2+1.21.1.zip","mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Fancy Crops v1.3.zip","file/Better+Lanterns+v1.2(mc-1.21).zip","continuity:glass_pane_culling_fix","continuity:default","file/Connected Paths v1.3.zip","mod/minecraft_cursor:resourcepacks/cursors_extended","file/FreshAnimations_v1.10.1.zip","file/FA+All_Extensions-v1.6.zip","file/armory-conglomery-v2.1.zip","file/Better Bows.zip","file/Blockier Goat Horn v1.2.zip","file/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/Angel\u0027s_Weather_v1.9.1.1hf.zip","file/§a§lVocal Villagers §r§71.2.zip"]
 incompatibleResourcePacks:["mod/subtle_effects:resourcepacks/biome_color_water_particles","file/Connected Paths v1.3.zip"]
 lastServer:
 lang:en_us
@@ -75,9 +75,9 @@ tutorialStep:movement
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:true
 showAutosaveIndicator:true
@@ -124,6 +124,10 @@ key_key.hotbar.9:key.keyboard.9
 key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_auroras.key.reload_aurora_configs:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.elixirum.menu:key.keyboard.j
